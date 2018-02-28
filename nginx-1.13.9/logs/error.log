@@ -1,0 +1,15 @@
+2018/02/28 16:38:15 [emerg] 17784#17460: CreateFile() "C:\Users\¿œ±æ±æ\Downloads\nginx-1.13.9/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2018/02/28 16:40:15 [emerg] 16092#17176: unknown directive "localhost" in C:\nginx-1.13.9/conf/vhost/user-nginx.conf:4
+2018/02/28 16:43:02 [emerg] 11776#2180: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2018/02/28 16:44:17 [emerg] 876#14172: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2018/02/28 16:44:38 [emerg] 17424#17700: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2018/02/28 16:45:28 [emerg] 10636#10444: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2018/02/28 16:46:38 [emerg] 5264#3028: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2018/02/28 16:47:11 [emerg] 8624#12720: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2018/02/28 16:50:43 [notice] 12924#4108: signal process started
+2018/02/28 16:50:43 [error] 12924#4108: invalid PID number "" in "C:\nginx-1.13.9/logs/nginx.pid"
+2018/02/28 16:51:30 [emerg] 17092#18648: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2018/02/28 16:51:44 [emerg] 17204#14688: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2018/02/28 16:58:20 [error] 15876#17940: *11 CreateFile() "C:\nginx-1.13.9/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "b.com:802", referrer: "http://b.com:802/"
+2018/02/28 17:20:19 [notice] 4512#18032: signal process started
+2018/02/28 19:27:16 [notice] 10616#7048: signal process started
